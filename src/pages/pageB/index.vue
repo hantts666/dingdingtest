@@ -1,6 +1,7 @@
 <template>
 	<div>
 		<div>333pageB</div>
+		<div>新增页面-庆</div>
 	</div>
 </template>
 
